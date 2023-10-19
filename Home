@@ -1,0 +1,70 @@
+<HTML>
+<HEAD>
+<TITLE> HOME  </TITLE>
+<STYLE>
+*{
+	margin:0px;
+	padding:0px;
+}
+a{
+	text-decoration:none;	
+}
+P{
+	margin:10px 0px;
+}
+</STYLE>
+</HEAD>
+<BODY VLINK=”BLUE” LINK=”BLUE”>
+<TABLE STYLE="WIDTH:100%">
+<TR>
+<TD COLSPAN="6" ALIGN="CENTER"><IMG SRC="LOGO.PNG" HEIGHT="100"></TD>
+</TR>
+<TR ALIGN="CENTER" BGCOLOR="#404099">
+<TD STYLE="PADDING:10px;"><A HREF="HOME.HTML" STYLE="COLOR:WHITE;">HOME</A></TD>
+<TD STYLE="PADDING:10px;"><A HREF="HOLI.HTML" STYLE="COLOR:WHITE;">HOLI </A></TD>
+<TD STYLE="PADDING:10px;"><A HREF="DIWALI.HTML" STYLE="COLOR:WHITE;">DIWALI </A></TD>
+<TD STYLE="PADDING:10px;"><A HREF="CHRISTMAS.HTML" STYLE="COLOR:WHITE;">CHRISTMAS </A></TD>
+<TD STYLE="PADDING:10px;"><A HREF="NAVRATRI.HTML" STYLE="COLOR:WHITE;">NAVRATRI </A></TD>
+<TD STYLE="PADDING:10px;"><A HREF="CONTACT.HTML" STYLE="COLOR:WHITE;">CONTACT US </A></TD>
+</TR>
+<TR>
+<TD COLSPAN="6" ALIGN="CENTER"><IMG SRC="BANNER.JPG" STYLE="WIDTH:100%"></TD>
+</TR>
+<TR>
+<TD COLSPAN=6><h1> INDIAN FESTIVAL </H1></TD>
+<TR>
+<TD COLSPAN=3 STYLE="PADDING:10px 30px;">
+ <IMG SRC="HOLI.WEBP" STYLE="WIDTH:100%; HEIGHT:525">
+<H2 STYLE="MARGIN:10px 0px;"> HOLI </H2>
+<P STYLE="MARGIN:10px 0px;">
+Holi is a popular and significant Hindu festival celebrated as the Festival of Colours, Love, and Spring. It celebrates the eternal and divine love of the deities Radha and Krishna. Additionally, the day signifies the triumph of good over evil, as it commemorates the victory of Vishnu as Narasimha over Hiranyakashipu. Holi originated and is predominantly celebrated in the Indian subcontinent, but has also spread to other regions of Asia and parts of the Western world through the Indian diaspora.
+<BR><A HREF="HOLI.HTML"> READ MORE </A>
+</P>
+<TD COLSPAN=3 STYLE="PADDING:10px 30px;"> <IMG SRC="diwali.jpg" STYLE="WIDTH:100%; Height:525px ">
+<H2 STYLE="MARGIN:10px 0px;"> DIWALI </H2>
+<P STYLE="MARGIN:10px 0px;">
+Diwali is the Hindu festival of lights with its variations also celebrated in other Indian religions. It symbolises the spiritual "victory of light over darkness, good over evil, and knowledge over ignorance". Diwali is celebrated during the Hindu lunisolar months of Ashvin (according to the amanta tradition) and Kartika—between around mid-September and mid-November. The celebrations generally last five or six days.Diwali is connected to various religious events, deities and personalities
+<BR><A HREF="DIWALI.HTML"> READ MORE </A>
+</P>
+</TR>
+<TR>
+<TD COLSPAN=3 STYLE="PADDING:10px 30px;">
+ <IMG SRC="CHRISTMAS.JPG" STYLE="WIDTH:100%; HEIGHT:525">
+<H2 STYLE="MARGIN:10px 0px;"> CHRISTMAS </H2>
+<P STYLE="MARGIN:10px 0px;">
+Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. A feast central to the Christian liturgical year, it is preceded by the season of Advent or the Nativity Fast and initiates the season of Christmastide, which historically in the West lasts twelve days and culminates on Twelfth Night. Christmas Day is a public holiday in many countries, is celebrated religiously by a majority of Christians, as well as culturally by many non-Christians, and forms an integral part of the holiday season organized around
+<BR><A HREF="CHRISTMAS.HTML"> READ MORE </A>
+</P>
+<TD COLSPAN=3 STYLE="PADDING:10px 30px;"> <IMG SRC="navratri.jpg" STYLE="WIDTH:100%; Height:525px ">
+<H2 STYLE="MARGIN:10px 0px;"> NAVRATRI </H2>
+<P STYLE="MARGIN:10px 0px;">
+Navratri is an annual Hindu festival observed in honour of the goddess Durga, an aspect of Adi Parashakti, the supreme goddess. It spans over nine nights, first in the month of Chaitra (March/April of the Gregorian calendar), and again in the month of Ashvin (September–October). It is observed for different reasons and celebrated differently in various parts of the Hindu Indian cultural sphere. Theoretically, there are four seasonal Navratri. However, in practice, it is the post-monsoon autumn festival called Sharada Navratri.
+<BR><A HREF="NAVRATRI.HTML"> READ MORE </A>
+</P>	
+</TR>
+<TR>
+<TD COLSPAN="6"ALIGN="CENTER" STYLE="PADDING:10PX;BACKGROUND:#E01D3C;COLOR:WHITE; HEIGHT:50PX;">PREPARED BY:<BR> <B>HARSHAL MISHRA</B>, CLASS:10C, ROLL NO: 14</TD>
+</TR>
+</TABLE>
+</BODY>
+</HTML>
